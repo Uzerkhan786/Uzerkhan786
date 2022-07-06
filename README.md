@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Uzer Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate react.js developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzerkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="uzerkhan786" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Blog Website](https://github.com/Uzerkhan786/A-BLOG-WEBSITE.git)
+- 🔭 I’m currently working on [iNotebook]
 
 - 🌱 I’m currently learning **Node js,Express,mongoDB**
 
