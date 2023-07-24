@@ -8,9 +8,6 @@
 
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzerkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="uzerkhan786" /> </p>
 ## ❤ Coding Profile:
 [![Leetcode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kuzer9911/) 
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/uzerkhan2020/practice)
