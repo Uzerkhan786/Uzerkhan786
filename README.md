@@ -7,12 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzerkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="uzerkhan786" /> </p>
 
 
-## 🌐 Coding Profile:
+## ❤ Coding Profile:
 [![Leetcode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kuzer9911/) 
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/uzerkhan2020/practice)
 
 
-## <img src="https://cdn-icons-png.flaticon.com/128/1006/1006363.png"/> Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzer-khan-b5a507214/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/UzerKhan786) 
 
