@@ -1,7 +1,6 @@
 
 
 # 💫 Heyyyy!! Glad You are here , Come i will take you through:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzerkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="uzerkhan786" /> </p>
 - 🔭 I’m currently working on **Fit Pro-a Fitness website**<br><br>- 🌱 I’m currently learning **Full Stack Web developement**<br><br>- 👨‍💻 All of my projects are available at [**https://portfolio-123ab.netlify.app//**](https://portfolio-123ab.netlify.app//)<br><br>- 💬 Ask me about **React Js, DSA,MERN STACK**<br><br>- 📫 How to reach me **uzerkhan439@gmail.com**<br><br>- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1gWb950GwuBMj9O0NsVeR0MLhp82ovBc3/view?usp=drive_link)<br><br>- ⚡ Fun fact **I am always ready to learn new things**<br><br>- 👯 My work on **LEETCODE** **https://leetcode.com/kuzer9911** <br><br>-MY LEETCODE<br>![Leetcode Stats](https://leetcard.jacoblin.cool/kuzer9911?ext=contest&theme=unicorn)<br>
 
 
@@ -34,3 +33,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzerkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="uzerkhan786" /> </p>
