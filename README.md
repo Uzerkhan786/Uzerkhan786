@@ -1,7 +1,7 @@
 
 
 # 💫 Heyyyy!! Glad You are here , Come I will take you through:
-- 🔭 I’m currently working on **Something crazy**<br><br>- 🌱 I am **Full Stack Web Developer**<br><br>- 👨‍💻 All of my projects are available at [**https://portfolio-123ab.netlify.app//**](https://uzerportfolio.netlify.app/)<br><br>- 💬 Ask me about **React Js, DSA,MERN STACK**<br><br>- 📫 How to reach me **uzerkhan439@gmail.com**<br><br>- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1UsnJin38mnNbkwS4o63ZvQfgJWAmQihm/view?usp=drive_link)<br><br>- ⚡ Fun fact **I am always ready to learn new things**<br><br>- 👯 My work on **LEETCODE** **https://leetcode.com/sr9911/** <br><br>-MY LEETCODE<br>![Leetcode Stats](https://leetcard.jacoblin.cool/sr9911?ext=contest&theme=unicorn)<br>
+- 🔭 I’m currently working on **Something crazy**<br><br>- 🌱 I am **Full Stack Web Developer**<br><br>- 👨‍💻 All of my projects are available at [**https://portfolio-123ab.netlify.app//**](https://uzerportfolio.netlify.app/)<br><br>- 💬 Ask me about **React Js, DSA,MERN STACK**<br><br>- 📫 How to reach me **uzerkhan439@gmail.com**<br><br>- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=resume&logoColor=white)](https://drive.google.com/file/d/1kAv5ddWqbamO8qZT5rRvUOtLHJsnZ75K/view?usp=drive_link)<br><br>- ⚡ Fun fact **I am always ready to learn new things**<br><br>- 👯 My work on **LEETCODE** **https://leetcode.com/sr9911/** <br><br>-MY LEETCODE<br>![Leetcode Stats](https://leetcard.jacoblin.cool/sr9911?ext=contest&theme=unicorn)<br>
 
 
 
